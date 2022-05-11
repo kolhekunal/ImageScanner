@@ -41,12 +41,7 @@ Extending ImageScan to accommodate a new Image is a matter of three steps: (1) a
 * Blank cassettes with little or no lettering
 * Inconsistent patterns (e.g., QR code, bar code)
 
-<p align="center">
-<img src="readme_assets/Image_examples.png" alt="Examples photographs of Images that work well and do not work well with ImageScan" width="300"/>
-</p>
 
-# API
-[Link](readme_assets/api_imageprocessor.md) for `ImageProcessor.java`
 
 
 
